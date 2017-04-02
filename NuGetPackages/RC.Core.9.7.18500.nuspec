@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>RC.Core</id>
+        <version>9.7.18500</version>
+        <authors>Yuuki Wesp; Alice Wesp</authors>
+        <owners>Yuuki Wesp</owners>
+        <projectUrl>https://avatars1.githubusercontent.com/u/13326822?v=3&amp;s=200</projectUrl>
+        <iconUrl>https://avatars1.githubusercontent.com/u/13326822?v=3&amp;s=200</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Rc.Framework - Set in- tended to develop a daily routine, is specialized for projects Yuuki Wesp's. It contains within itself all, since win32 wrappers, ending sockets</description>
+        <releaseNotes>Added 256 bit coloring with Screen.
+Set Terminal as obsolete.</releaseNotes>
+        <copyright>Copyright 2015-2017</copyright>
+        <language>ru-RU</language>
+        <dependencies>
+            <dependency id="System" version="4.0.0.0" />
+            <dependency id="System.Core" version="4.0.0.0" />
+            <dependency id="System.Data" version="4.0.0.0" />
+            <dependency id="System.Drawing" version="4.0.0.0" />
+            <dependency id="System.Management" version="4.0.0.0" />
+            <dependency id="System.Runtime.Serialization.Formatters.Soap" version="4.0.0.0" />
+            <dependency id="System.Windows.Forms" version="4.0.0.0" />
+            <dependency id="System.Xml" version="4.0.0.0" />
+            <dependency id="System.Xml.Linq" version="4.0.0.0" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\bin\Debug\RC.Core.dll" target="lib\net45\RC.Core.dll" />
+    </files>
+</package>

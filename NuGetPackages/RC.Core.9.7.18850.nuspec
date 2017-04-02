@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>RC.Core</id>
+        <version>9.7.18850</version>
+        <authors>Yuuki Wesp; Alice Wesp</authors>
+        <owners>Yuuki Wesp</owners>
+        <projectUrl>https://avatars1.githubusercontent.com/u/13326822?v=3&amp;s=200</projectUrl>
+        <iconUrl>https://avatars1.githubusercontent.com/u/13326822?v=3&amp;s=200</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Rc.Framework - Set in- tended to develop a daily routine, is specialized for projects Yuuki Wesp's. It contains within itself all, since win32 wrappers, ending sockets</description>
+        <releaseNotes>Added method Map, to maping color</releaseNotes>
+        <copyright>Copyright 2015-2017</copyright>
+        <language>ru-RU</language>
+        <dependencies />
+    </metadata>
+    <files>
+        <file src="lib\net45\RC.Core.dll" target="lib\net45\RC.Core.dll" />
+        <file src="lib\net45\RC.Core.pdb" target="lib\net45\RC.Core.pdb" />
+    </files>
+</package>
