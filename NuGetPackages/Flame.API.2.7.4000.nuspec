@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Flame.API</id>
+        <version>2.7.4000</version>
+        <title>Flame VM API</title>
+        <authors>Yuuki Wesp</authors>
+        <owners>Yuuki Wesp</owners>
+        <projectUrl>https://github.com/HoloVector/FlameVM</projectUrl>
+        <iconUrl>https://raw.githubusercontent.com/HoloVector/NuGet-Icons/master/Accessibility/Accessibility_256x.png?token=AMtZ2Bd92IP_dsRUv6oEsChl4A4ouH6kks5Y6eL8wA%3D%3D</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Flame API Library</description>
+        <copyright>(C) 2017 Yuuki Wesp</copyright>
+        <language>ru-RU</language>
+    </metadata>
+    <files>
+        <file src="C:\git\FlameVM\Source\lib\Flame.API\bin\Debug\Flame.API.dll" target="lib\net45\Flame.API.dll" />
+        <file src="C:\git\FlameVM\Source\lib\Flame.API\bin\Debug\Flame.API.pdb" target="lib\net45\Flame.API.pdb" />
+    </files>
+</package>

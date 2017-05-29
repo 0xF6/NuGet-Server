@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>RC.Core</id>
+        <version>11.0.0.25500</version>
+        <authors>Yuuki Wesp; Alice Wesp</authors>
+        <owners>Yuuki Wesp</owners>
+        <projectUrl>https://avatars1.githubusercontent.com/u/13326822?v=3&amp;s=200</projectUrl>
+        <iconUrl>https://avatars1.githubusercontent.com/u/13326822?v=3&amp;s=200</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Rc.Framework - Set in- tended to develop a daily routine, is specialized for projects Yuuki Wesp's. It contains within itself all, since win32 wrappers, ending sockets</description>
+        <releaseNotes>Added maping color for  Windows 10 Anniversary Update</releaseNotes>
+        <copyright>Copyright 2015-2018</copyright>
+        <language>ru-RU</language>
+    </metadata>
+    <files>
+        <file src="..\GitHub\Rc.Core\bin\Release\RC.Core.dll" target="lib\net45\RC.Core.dll" />
+        <file src="..\GitHub\Rc.Core\bin\Release\RC.Core.pdb" target="lib\net45\RC.Core.pdb" />
+        <file src="..\GitHub\Rc.Core\bin\Release\RC.Core.XML" target="lib\net45\RC.Core.XML" />
+    </files>
+</package>
