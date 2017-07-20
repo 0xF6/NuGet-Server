@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Alfheim-DoF-Framework</id>
+        <version>3.9.185000</version>
+        <title>Framework for platform Alfheim</title>
+        <authors>Yuuki Wesp</authors>
+        <owners>Yuuki Wesp</owners>
+        <iconUrl>https://raw.githubusercontent.com/HoloVector/NuGet-Icons/master/AzureRunBook/AzureRunbook_color_256x.png?token=AMtZ2MO5r2vQ5TdRbUIQdanmJpuauHEzks5Y6eRZwA%3D%3D</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Framework for platform Alfheim</description>
+        <summary>FluxFramework</summary>
+        <copyright>Copyright © Yuuki Wesp 2015-2017</copyright>
+        <dependencies>
+            <dependency id="Newtonsoft.Json" version="10.0.2" />
+            <dependency id="BouncyCastle.Crypto.dll" version="1.8.1" />
+            <dependency id="Npgsql" version="3.2.2" />
+            <dependency id="RandomGen" version="0.4.1" />
+            <dependency id="IKVM" version="8.1.5717.0" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\GitHub\Alfheim-DoF-Framework\bin\Release\DoF.Platform.Framework.dll" target="lib\net46\DoF.Platform.Framework.dll" />
+        <file src="..\GitHub\Alfheim-DoF-Framework\bin\Release\DoF.Platform.Framework.dll.config" target="lib\net46\DoF.Platform.Framework.dll.config" />
+        <file src="..\GitHub\Alfheim-DoF-Framework\bin\Release\DoF.Platform.Framework.pdb" target="lib\net46\DoF.Platform.Framework.pdb" />
+    </files>
+</package>

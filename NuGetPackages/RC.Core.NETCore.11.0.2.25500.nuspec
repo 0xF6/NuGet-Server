@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RC.Core.NETCore</id>
+    <version>11.0.2.25500</version>
+	<authors>Yuuki Wesp; Alice Wesp</authors>
+	<owners>Yuuki Wesp</owners>
+    <projectUrl>https://avatars1.githubusercontent.com/u/13326822?v=3&amp;s=200</projectUrl>
+	<iconUrl>https://avatars1.githubusercontent.com/u/13326822?v=3&amp;s=200</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Rc.Framework - Set in- tended to develop a daily routine, is specialized for projects Yuuki Wesp's. It contains within itself all, since win32 wrappers, ending sockets</description>
+	<releaseNotes>Added maping color for  Windows 10 Anniversary Update</releaseNotes>
+	<copyright>Copyright 2015-2018</copyright>
+  </metadata>
+</package>

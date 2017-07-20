@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>RandomGen</id>
+        <version>1.5.2.255</version>
+        <authors>null</authors>
+        <projectUrl>https://avatars1.githubusercontent.com/u/13326822?v=3&amp;s=200</projectUrl>
+        <iconUrl>https://avatars1.githubusercontent.com/u/13326822?v=3&amp;s=200</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>null</description>
+        <releaseNotes />
+        <copyright />
+        <language>ru-RU</language>
+    </metadata>
+    <files>
+        <file src="..\GitHub\RandomGen-master\src\RandomGen\bin\Release\RandomGen.dll" target="lib\net40\RandomGen.dll" />
+        <file src="..\GitHub\RandomGen-master\src\RandomGen\bin\Release\RandomGen.pdb" target="lib\net40\RandomGen.pdb" />
+    </files>
+</package>
